@@ -11,6 +11,7 @@ const Hero = () => {
 
         <button
           type='button'
+          
           onClick={() =>
             window.open("https://github.com/tejasp2003", "_blank")
           }
